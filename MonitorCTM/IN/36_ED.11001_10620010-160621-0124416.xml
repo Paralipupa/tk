@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Envelope xmlns="http://www.w3.org/2001/06/soap-envelope" xmlns:app="urn:customs.ru:Envelope:ApplicationInf:1.0" xmlns:att="urn:customs.ru:Envelope:Attachments:1.0" xmlns:roi="urn:customs.ru:Envelope:RoutingInf:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/06/soap-envelope">
+	<Header>
+		<roi:RoutingInf>
+			<roi:EnvelopeID>B3630024-DFC4-4A48-9C69-B138458C9E21</roi:EnvelopeID>
+			<roi:SenderInformation>smtp://info/ORION</roi:SenderInformation>
+			<roi:ReceiverInformation>smtp://eps.customs.ru/gateway</roi:ReceiverInformation>
+			<roi:PreparationDateTime>2022-02-04T13:25:05+08:00</roi:PreparationDateTime>
+		</roi:RoutingInf>
+		<app:ApplicationInf>
+			<app:SoftKind>CTM 4.67</app:SoftKind>
+			<app:SoftVersion>5.18.0/3.4.7</app:SoftVersion>
+		</app:ApplicationInf>
+		<EDHeader xmlns="urn:customs.ru:Envelope:EDHeader:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<MessageType>ED.11001</MessageType>
+			<MainProccessID>6e71ba18-d2d6-49e9-be96-8f7059d99cd0</MainProccessID>
+			<ParticipantID>102773904800857</ParticipantID>
+			<ReceiverCustoms>
+				<CustomsCode>10620010</CustomsCode>
+				<ExchType>19200</ExchType>
+			</ReceiverCustoms>
+		</EDHeader>
+	</Header>
+	<Body><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="urn:xml-dsig:transformation:v1.1"/><SignatureMethod Algorithm="urn:ietf:params:xml:ns:cpxmlsec:algorithms:gostr34102012-gostr34112012-256"/><Reference URI="#KeyInfo"><Transforms><Transform Algorithm="urn:xml-dsig:transformation:v1.1"/></Transforms><DigestMethod Algorithm="urn:ietf:params:xml:ns:cpxmlsec:algorithms:gostr34112012-256"/><DigestValue>9IVXhUFE9xbWmW4UIrzZXI3cIExCqQgaj6TS2nio9rM=</DigestValue></Reference><Reference URI="#Object"><Transforms><Transform Algorithm="urn:xml-dsig:transformation:v1.1"/></Transforms><DigestMethod Algorithm="urn:ietf:params:xml:ns:cpxmlsec:algorithms:gostr34112012-256"/><DigestValue>iOIVpMkVW8INUknSMWnkQQJLJVwqnamHtTU+nO9TEng=</DigestValue></Reference></SignedInfo><SignatureValue>MIIFZgYJKoZIhvcNAQcCoIIFVzCCBVMCAQExDjAMBggqhQMHAQECAgUAMAsGCSqGSIb3DQEHATGCBS8wggUrAgEBMIIB/zCCAegxGzAZBgkqhkiG9w0BCQEWDGNhQHNlcnR1bS5ydTEYMBYGBSqFA2QBEg0xMTE2NjczMDA4NTM5MRowGAYIKoUDA4EDAQESDDAwNjY3MzI0MDMyODELMAkGA1UEBhMCUlUxMzAxBgNVBAgMKjY2INCh0LLQtdGA0LTQu9C+0LLRgdC60LDRjyDQvtCx0LvQsNGB0YLRjDEhMB8GA1UEBwwY0JXQutCw0YLQtdGA0LjQvdCx0YPRgNCzMVIwUAYDVQQJDEnRg9C70LjRhtCwINCj0LvRjNGP0L3QvtCy0YHQutCw0Y8sINC0LiAxMywg0LvQuNGC0LXRgCDQkCwg0L7RhNC40YEgMjA5INCRMWwwagYDVQQKDGPQntCx0YnQtdGB0YLQstC+INGBINC+0LPRgNCw0L3QuNGH0LXQvdC90L7QuSDQvtGC0LLQtdGC0YHRgtCy0LXQvdC90L7RgdGC0YzRjiAi0KHQtdGA0YLRg9C8LdCf0YDQviIxbDBqBgNVBAMMY9Ce0LHRidC10YHRgtCy0L4g0YEg0L7Qs9GA0LDQvdC40YfQtdC90L3QvtC5INC+0YLQstC10YLRgdGC0LLQtdC90L3QvtGB0YLRjNGOICLQodC10YDRgtGD0Lwt0J/RgNC+IgIRA67cdgC/rUi7SoKk/nRReBQwDAYIKoUDBwEBAgIFAKCCAsMwGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjIwMjA0MDUyNTA1WjAvBgkqhkiG9w0BCQQxIgQgKwEc/FLZf+QP2B4e87Kd78im6YMylmHfc8j8QGTQ/iswggJWBgsqhkiG9w0BCRACLzGCAkUwggJBMIICPTCCAjkwCgYIKoUDBwEBAgIEIMDhYhEpHudCBPGRZagpzy/nvw5x5gzxU4ixXpS+dVKEMIICBzCCAfCkggHsMIIB6DEbMBkGCSqGSIb3DQEJARYMY2FAc2VydHVtLnJ1MRgwFgYFKoUDZAESDTExMTY2NzMwMDg1MzkxGjAYBggqhQMDgQMBARIMMDA2NjczMjQwMzI4MQswCQYDVQQGEwJSVTEzMDEGA1UECAwqNjYg0KHQstC10YDQtNC70L7QstGB0LrQsNGPINC+0LHQu9Cw0YHRgtGMMSEwHwYDVQQHDBjQldC60LDRgtC10YDQuNC90LHRg9GA0LMxUjBQBgNVBAkMSdGD0LvQuNGG0LAg0KPQu9GM0Y/QvdC+0LLRgdC60LDRjywg0LQuIDEzLCDQu9C40YLQtdGAINCQLCDQvtGE0LjRgSAyMDkg0JExbDBqBgNVBAoMY9Ce0LHRidC10YHRgtCy0L4g0YEg0L7Qs9GA0LDQvdC40YfQtdC90L3QvtC5INC+0YLQstC10YLRgdGC0LLQtdC90L3QvtGB0YLRjNGOICLQodC10YDRgtGD0Lwt0J/RgNC+IjFsMGoGA1UEAwxj0J7QsdGJ0LXRgdGC0LLQviDRgSDQvtCz0YDQsNC90LjRh9C10L3QvdC+0Lkg0L7RgtCy0LXRgtGB0YLQstC10L3QvdC+0YHRgtGM0Y4gItCh0LXRgNGC0YPQvC3Qn9GA0L4iAhEDrtx2AL+tSLtKgqT+dFF4FDAMBggqhQMHAQEBAQUABEAjPjrydxLbK2NMSwPwzNg1mnX8AaSk8P5Ulr3c5ev4If0dEWcJ9AdKtIyJeMM3slKx8lVdfIoLHExD3DN7DlTh</SignatureValue><KeyInfo Id="KeyInfo"><X509Data><X509Certificate>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</X509Certificate></X509Data></KeyInfo><Object Id="Object"><ReqOpenProc xmlns="urn:customs.ru:Information:ExchangeDocuments:ReqOpenProc:5.13.1" xmlns:cat_ru="urn:customs.ru:CommonAggregateTypes:5.10.0" xmlns:clt_ru="urn:customs.ru:CommonLeafTypes:5.10.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentModeID="1004057E">
+					<cat_ru:DocumentID>0AD18C5F-9AA0-447B-A78B-2AEDB660A19E</cat_ru:DocumentID>
+					<Declarant>
+						<cat_ru:OrganizationName>ООО "ОРИОН"</cat_ru:OrganizationName>
+						<cat_ru:RFOrganizationFeatures>
+							<cat_ru:OGRN>1093804000553</cat_ru:OGRN>
+							<cat_ru:INN>3804043779</cat_ru:INN>
+							<cat_ru:KPP>384701001</cat_ru:KPP>
+						</cat_ru:RFOrganizationFeatures>
+						<cat_ru:Address>
+							<cat_ru:PostalCode>665771</cat_ru:PostalCode>
+							<cat_ru:CountryCode>RU</cat_ru:CountryCode>
+							<cat_ru:CounryName>РОССИЯ</cat_ru:CounryName>
+							<cat_ru:Region>ИРКУТСКАЯ ОБЛ., БРАТСКИЙ РАЙОН</cat_ru:Region>
+							<cat_ru:City>Г.ВИХОРЕВКА</cat_ru:City>
+							<cat_ru:StreetHouse>УЛ.ДОКОВСКАЯ Д.20/1</cat_ru:StreetHouse>
+						</cat_ru:Address>
+					</Declarant>
+				</ReqOpenProc></Object></Signature></Body>
+</Envelope>

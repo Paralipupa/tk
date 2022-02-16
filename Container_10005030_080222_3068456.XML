@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ED_Container
+DocumentModeID="1006058E"
+xmlns="urn:customs.ru:Information:ExchangeDocuments:ED_Container:5.13.1"
+xmlns:cat_ru="urn:customs.ru:CommonAggregateTypes:5.10.0"
+xmlns:clt_ru="urn:customs.ru:CommonLeafTypes:5.10.0"
+>
+  <cat_ru:DocumentID>934CAD16-E4A0-468A-93F7-8DA06B2F8C3F</cat_ru:DocumentID>
+          <ContainerDoc>
+            <DocBody>
+
+<ESADout_CU DocumentModeID="1006107E" xmlns="urn:customs.ru:Information:CustomsDocuments:ESADout_CU:5.17.0" xmlns:clt_ru="urn:customs.ru:CommonLeafTypes:5.10.0" xmlns:cat_ru="urn:customs.ru:CommonAggregateTypes:5.10.0" xmlns:catESAD_cu="urn:customs.ru:CUESADCommonAggregateTypesCust:5.17.0" xmlns:RUSclt_ru="urn:customs.ru:RUSCommonLeafTypes:5.14.3" xmlns:RUScat_ru="urn:customs.ru:RUSCommonAggregateTypes:5.16.0" xmlns:RUDECLcat="urn:customs.ru:RUDeclCommonAggregateTypesCust:5.17.0" xmlns:cltESAD_cu="urn:customs.ru:CUESADCommonLeafTypes:5.17.0" >
+  <cat_ru:DocumentID>1BF35920-1874-447F-8807-8D8E01CD999E</cat_ru:DocumentID>
+  <EECEDocHeaderAddInfo>
+    <RUScat_ru:EDocCode>R.036</RUScat_ru:EDocCode>
+    <RUScat_ru:EDocDateTime>2022-02-08T00:00:00+03:00</RUScat_ru:EDocDateTime>
+  </EECEDocHeaderAddInfo>
+  <CustomsProcedure>ИМ</CustomsProcedure>
+  <CustomsModeCode>40</CustomsModeCode>
+  <ElectronicDocumentSign>ЭД</ElectronicDocumentSign>
+  <RecipientCountryCode>RU</RecipientCountryCode>
+  <ESADout_CUGoodsShipment>
+    <catESAD_cu:OriginCountryName>ТАЙВАНЬ (КИТАЙ)</catESAD_cu:OriginCountryName>
+    <catESAD_cu:OriginCountryCode>TW</catESAD_cu:OriginCountryCode>
+    <catESAD_cu:TotalGoodsNumber>1</catESAD_cu:TotalGoodsNumber>
+    <catESAD_cu:TotalPackageNumber>1</catESAD_cu:TotalPackageNumber>
+    <catESAD_cu:TotalSheetNumber>1</catESAD_cu:TotalSheetNumber>
+    <catESAD_cu:TotalCustCost>419693.98</catESAD_cu:TotalCustCost>
+    <catESAD_cu:CustCostCurrencyCode>RUB</catESAD_cu:CustCostCurrencyCode>
+    <ESADout_CUConsignor>
+      <cat_ru:OrganizationName>FULL SUN OPTOTECH CO., LTD.</cat_ru:OrganizationName>
+      <RUScat_ru:SubjectAddressDetails>
+        <RUScat_ru:PostalCode>40768</RUScat_ru:PostalCode>
+        <RUScat_ru:CountryCode>TW</RUScat_ru:CountryCode>
+        <RUScat_ru:CounryName>ТАЙВАНЬ (КИТАЙ)</RUScat_ru:CounryName>
+        <RUScat_ru:City>TAICHUNG</RUScat_ru:City>
+        <RUScat_ru:StreetHouse>N30, INDUSTRIAL 41ST RD., TAICHUNG INDUSTRIAL PARK</RUScat_ru:StreetHouse>
+      </RUScat_ru:SubjectAddressDetails>
+    </ESADout_CUConsignor>
+    <ESADout_CUConsignee>
+      <RUDECLcat:EqualIndicator>1</RUDECLcat:EqualIndicator>
+    </ESADout_CUConsignee>
+    <ESADout_CUFinancialAdjustingResponsiblePerson>
+      <DeclarantEqualFlag>1</DeclarantEqualFlag>
+    </ESADout_CUFinancialAdjustingResponsiblePerson>
+    <ESADout_CUDeclarant>
+      <cat_ru:OrganizationName>АО "ПЛАНЕТА- СИД"</cat_ru:OrganizationName>
+      <cat_ru:RFOrganizationFeatures>
+        <cat_ru:OGRN>1025300803604</cat_ru:OGRN>
+        <cat_ru:INN>5321037964</cat_ru:INN>
+        <cat_ru:KPP>532101001</cat_ru:KPP>
+      </cat_ru:RFOrganizationFeatures>
+      <RUScat_ru:SubjectAddressDetails>
+        <RUScat_ru:PostalCode>173000</RUScat_ru:PostalCode>
+        <RUScat_ru:CountryCode>RU</RUScat_ru:CountryCode>
+        <RUScat_ru:CounryName>РОССИЯ</RUScat_ru:CounryName>
+        <RUScat_ru:Region>НОВГОРОДСКАЯ ОБЛ.</RUScat_ru:Region>
+        <RUScat_ru:City>Г. ВЕЛИКИЙ НОВГОРОД</RUScat_ru:City>
+        <RUScat_ru:StreetHouse>УЛ. ФЕДОРОВСКИЙ РУЧЕЙ, Д. 2/13, ПОМ. 1</RUScat_ru:StreetHouse>
+      </RUScat_ru:SubjectAddressDetails>
+    </ESADout_CUDeclarant>
+    <ESADout_CUGoodsLocation>
+      <InformationTypeCode>11</InformationTypeCode>
+      <CustomsOffice>10001000</CustomsOffice>
+      <CustomsCountryCode>RU</CustomsCountryCode>
+      <RegisterDocumentIdDetails>
+        <catESAD_cu:DocId>10001/220721/20006/1</catESAD_cu:DocId>
+      </RegisterDocumentIdDetails>
+      <Address>
+        <RUScat_ru:CountryCode>RU</RUScat_ru:CountryCode>
+        <RUScat_ru:CounryName>РОССИЯ</RUScat_ru:CounryName>
+        <RUScat_ru:City>МОСКВА</RUScat_ru:City>
+        <RUScat_ru:StreetHouse>АЭРОПОРТ ВНУКОВО, Д. 1, СТР. 19</RUScat_ru:StreetHouse>
+      </Address>
+    </ESADout_CUGoodsLocation>
+    <ESADout_CUConsigment>
+      <catESAD_cu:ContainerIndicator>0</catESAD_cu:ContainerIndicator>
+      <catESAD_cu:DispatchCountryCode>TW</catESAD_cu:DispatchCountryCode>
+      <catESAD_cu:DispatchCountryName>ТАЙВАНЬ (КИТАЙ)</catESAD_cu:DispatchCountryName>
+      <catESAD_cu:DestinationCountryCode>RU</catESAD_cu:DestinationCountryCode>
+      <catESAD_cu:DestinationCountryName>РОССИЯ</catESAD_cu:DestinationCountryName>
+      <catESAD_cu:BorderCustomsOffice>
+        <cat_ru:Code>10001020</cat_ru:Code>
+        <cat_ru:OfficeName>Т/П АЭРОПОРТ ВНУКОВО (ГРУЗОВОЙ)</cat_ru:OfficeName>
+        <cat_ru:CustomsCountryCode>643</cat_ru:CustomsCountryCode>
+      </catESAD_cu:BorderCustomsOffice>
+      <ESADout_CUDepartureArrivalTransport>
+        <cat_ru:TransportModeCode>40</cat_ru:TransportModeCode>
+        <cat_ru:TransportNationalityCode>BE</cat_ru:TransportNationalityCode>
+        <TransportMeansQuantity>1</TransportMeansQuantity>
+        <TransportMeans>
+          <cat_ru:TransportKindCode>400</cat_ru:TransportKindCode>
+          <cat_ru:TransportIdentifier>V84815</cat_ru:TransportIdentifier>
+          <cat_ru:TransportMeansNationalityCode>BE</cat_ru:TransportMeansNationalityCode>
+        </TransportMeans>
+      </ESADout_CUDepartureArrivalTransport>
+      <ESADout_CUBorderTransport>
+        <cat_ru:TransportModeCode>40</cat_ru:TransportModeCode>
+        <cat_ru:TransportNationalityCode>BE</cat_ru:TransportNationalityCode>
+        <TransportMeansQuantity>1</TransportMeansQuantity>
+        <TransportMeans>
+          <cat_ru:TransportKindCode>400</cat_ru:TransportKindCode>
+          <cat_ru:TransportIdentifier>V84815</cat_ru:TransportIdentifier>
+          <cat_ru:TransportMeansNationalityCode>BE</cat_ru:TransportMeansNationalityCode>
+        </TransportMeans>
+      </ESADout_CUBorderTransport>
+    </ESADout_CUConsigment>
+    <ESADout_CUMainContractTerms>
+      <catESAD_cu:ContractCurrencyCode>USD</catESAD_cu:ContractCurrencyCode>
+      <catESAD_cu:ContractCurrencyRate>75.6806</catESAD_cu:ContractCurrencyRate>
+      <catESAD_cu:TotalInvoiceAmount>5386.30</catESAD_cu:TotalInvoiceAmount>
+      <catESAD_cu:TradeCountryCode>TW</catESAD_cu:TradeCountryCode>
+      <catESAD_cu:DealFeatureCode>06</catESAD_cu:DealFeatureCode>
+      <catESAD_cu:DealNatureCode>010</catESAD_cu:DealNatureCode>
+      <catESAD_cu:CUESADDeliveryTerms>
+        <cat_ru:DeliveryPlace>TAIWAN</cat_ru:DeliveryPlace>
+        <cat_ru:DeliveryTermsStringCode>FCA</cat_ru:DeliveryTermsStringCode>
+      </catESAD_cu:CUESADDeliveryTerms>
+    </ESADout_CUMainContractTerms>
+    <ESADout_CUGoods>
+      <catESAD_cu:GoodsNumeric>1</catESAD_cu:GoodsNumeric>
+      <catESAD_cu:GoodFeatures>ЭКГ</catESAD_cu:GoodFeatures>
+      <catESAD_cu:GoodsDescription>ЧАСТИ ДИОДОВ ДЛЯ СБОРКИ СВЕТОИЗЛУЧАЮЩИХ ДИОДОВ, :</catESAD_cu:GoodsDescription>
+      <catESAD_cu:GrossWeightQuantity>1.100</catESAD_cu:GrossWeightQuantity>
+      <catESAD_cu:NetWeightQuantity>1.060</catESAD_cu:NetWeightQuantity>
+      <catESAD_cu:InvoicedCost>5386.30</catESAD_cu:InvoicedCost>
+      <catESAD_cu:CustomsCost>419693.98</catESAD_cu:CustomsCost>
+      <catESAD_cu:StatisticalCost>5545.60</catESAD_cu:StatisticalCost>
+      <catESAD_cu:GoodsTNVEDCode>8541900000</catESAD_cu:GoodsTNVEDCode>
+      <catESAD_cu:OriginCountryCode>TW</catESAD_cu:OriginCountryCode>
+      <catESAD_cu:CustomsCostCorrectMethod>1</catESAD_cu:CustomsCostCorrectMethod>
+      <catESAD_cu:AdditionalSheetCount>1</catESAD_cu:AdditionalSheetCount>
+      <catESAD_cu:GoodsGroupDescription>
+        <catESAD_cu:GoodsDescription>КРИСТАЛЛЫ ДЛЯ СВЕТОИЗЛУЧАЮЩИХ ДИОДОВ, ЦВЕТ:КРАСНЫЙ, ДЛИНА ВОЛНЫ ИЗЛУЧЕНИЯ 625 NM, СИЛА СВЕТА 400 MCD</catESAD_cu:GoodsDescription>
+        <catESAD_cu:GoodsGroupInformation>
+          <catESAD_cu:Manufacturer>FULL SUN OPTOTECH CO., LTD.</catESAD_cu:Manufacturer>
+          <catESAD_cu:TradeMark>ОТСУТСТВУЕТ</catESAD_cu:TradeMark>
+          <catESAD_cu:GoodsMark>ОТСУТСТВУЕТ</catESAD_cu:GoodsMark>
+          <catESAD_cu:GoodsModel>ОТСУТСТВУЕТ</catESAD_cu:GoodsModel>
+          <catESAD_cu:GoodsMarking>C0909-EPKR25-390</catESAD_cu:GoodsMarking>
+          <catESAD_cu:GoodsGroupQuantity>
+            <catESAD_cu:GoodsQuantity>20000.00</catESAD_cu:GoodsQuantity>
+            <catESAD_cu:MeasureUnitQualifierName>ШТ</catESAD_cu:MeasureUnitQualifierName>
+            <catESAD_cu:MeasureUnitQualifierCode>796</catESAD_cu:MeasureUnitQualifierCode>
+          </catESAD_cu:GoodsGroupQuantity>
+          <catESAD_cu:LineNum>1</catESAD_cu:LineNum>
+        </catESAD_cu:GoodsGroupInformation>
+        <catESAD_cu:GroupNum>1</catESAD_cu:GroupNum>
+      </catESAD_cu:GoodsGroupDescription>
+      <catESAD_cu:GoodsGroupDescription>
+        <catESAD_cu:GoodsDescription>КРИСТАЛЛЫ ДЛЯ СВЕТОИЗЛУЧАЮЩИХ ДИОДОВ, ЦВЕТ:КРАСНЫЙ, ДЛИНА ВОЛНЫ ИЗЛУЧЕНИЯ 640NM, СИЛА СВЕТА 17-34 MCD</catESAD_cu:GoodsDescription>
+        <catESAD_cu:GoodsGroupInformation>
+          <catESAD_cu:Manufacturer>FULL SUN OPTOTECH CO., LTD.</catESAD_cu:Manufacturer>
+          <catESAD_cu:TradeMark>ОТСУТСТВУЕТ</catESAD_cu:TradeMark>
+          <catESAD_cu:GoodsMark>ОТСУТСТВУЕТ</catESAD_cu:GoodsMark>
+          <catESAD_cu:GoodsModel>ОТСУТСТВУЕТ</catESAD_cu:GoodsModel>
+          <catESAD_cu:GoodsMarking>C0909-OPKR40-12</catESAD_cu:GoodsMarking>
+          <catESAD_cu:GoodsGroupQuantity>
+            <catESAD_cu:GoodsQuantity>300000.00</catESAD_cu:GoodsQuantity>
+            <catESAD_cu:MeasureUnitQualifierName>ШТ</catESAD_cu:MeasureUnitQualifierName>
+            <catESAD_cu:MeasureUnitQualifierCode>796</catESAD_cu:MeasureUnitQualifierCode>
+          </catESAD_cu:GoodsGroupQuantity>
+          <catESAD_cu:LineNum>1</catESAD_cu:LineNum>
+        </catESAD_cu:GoodsGroupInformation>
+        <catESAD_cu:GroupNum>2</catESAD_cu:GroupNum>
+      </catESAD_cu:GoodsGroupDescription>
+      <catESAD_cu:GoodsGroupDescription>
+        <catESAD_cu:GoodsDescription>КРИСТАЛЛЫ ДЛЯ СВЕТОИЗЛУЧАЮЩИХ ДИОДОВ, ЦВЕТ:КРАСНЫЙ, ДЛИНА ВОЛНЫ ИЗЛУЧЕНИЯ 640NM, СИЛА СВЕТА 40-70MCD</catESAD_cu:GoodsDescription>
+        <catESAD_cu:GoodsGroupInformation>
+          <catESAD_cu:Manufacturer>FULL SUN OPTOTECH CO., LTD.</catESAD_cu:Manufacturer>
+          <catESAD_cu:TradeMark>ОТСУТСТВУЕТ</catESAD_cu:TradeMark>
+          <catESAD_cu:GoodsMark>ОТСУТСТВУЕТ</catESAD_cu:GoodsMark>
+          <catESAD_cu:GoodsModel>ОТСУТСТВУЕТ</catESAD_cu:GoodsModel>
+          <catESAD_cu:GoodsMarking>C0808-OPR35-35</catESAD_cu:GoodsMarking>
+          <catESAD_cu:GoodsGroupQuantity>
+            <catESAD_cu:GoodsQuantity>100000.00</catESAD_cu:GoodsQuantity>
+            <catESAD_cu:MeasureUnitQualifierName>ШТ</catESAD_cu:MeasureUnitQualifierName>
+            <catESAD_cu:MeasureUnitQualifierCode>796</catESAD_cu:MeasureUnitQualifierCode>
+          </catESAD_cu:GoodsGroupQuantity>
+          <catESAD_cu:LineNum>1</catESAD_cu:LineNum>
+        </catESAD_cu:GoodsGroupInformation>
+        <catESAD_cu:GroupNum>3</catESAD_cu:GroupNum>
+      </catESAD_cu:GoodsGroupDescription>
+      <catESAD_cu:GoodsGroupDescription>
+        <catESAD_cu:GoodsDescription>КРИСТАЛЛЫ ДЛЯ СВЕТОИЗЛУЧАЮЩИХ ДИОДОВ, ЦВЕТ: ЗЕЛЕНЫЙ, ДЛИНА ВОЛНЫ ИЗЛУЧЕНИЯ 570NM, СИЛА СВЕТА 15 MCD</catESAD_cu:GoodsDescription>
+        <catESAD_cu:GoodsGroupInformation>
+          <catESAD_cu:Manufacturer>FULL SUN OPTOTECH CO., LTD.</catESAD_cu:Manufacturer>
+          <catESAD_cu:TradeMark>ОТСУТСТВУЕТ</catESAD_cu:TradeMark>
+          <catESAD_cu:GoodsMark>ОТСУТСТВУЕТ</catESAD_cu:GoodsMark>
+          <catESAD_cu:GoodsModel>ОТСУТСТВУЕТ</catESAD_cu:GoodsModel>
+          <catESAD_cu:GoodsMarking>C0808-OPG70-8</catESAD_cu:GoodsMarking>
+          <catESAD_cu:GoodsGroupQuantity>
+            <catESAD_cu:GoodsQuantity>200000.00</catESAD_cu:GoodsQuantity>
+            <catESAD_cu:MeasureUnitQualifierName>ШТ</catESAD_cu:MeasureUnitQualifierName>
+            <catESAD_cu:MeasureUnitQualifierCode>796</catESAD_cu:MeasureUnitQualifierCode>
+          </catESAD_cu:GoodsGroupQuantity>
+          <catESAD_cu:LineNum>1</catESAD_cu:LineNum>
+        </catESAD_cu:GoodsGroupInformation>
+        <catESAD_cu:GroupNum>4</catESAD_cu:GroupNum>
+      </catESAD_cu:GoodsGroupDescription>
+      <catESAD_cu:GoodsGroupDescription>
+        <catESAD_cu:GoodsDescription>КРИСТАЛЛЫ ДЛЯ СВЕТОИЗЛУЧАЮЩИХ ДИОДОВ, ЦВЕТ: ЖЕЛТЫЙ, ДЛИНА ВОЛНЫ ИЗЛУЧЕНИЯ 590NM, СИЛА СВЕТА 6-10 MCD</catESAD_cu:GoodsDescription>
+        <catESAD_cu:GoodsGroupInformation>
+          <catESAD_cu:Manufacturer>FULL SUN OPTOTECH CO., LTD.</catESAD_cu:Manufacturer>
+          <catESAD_cu:TradeMark>ОТСУТСТВУЕТ</catESAD_cu:TradeMark>
+          <catESAD_cu:GoodsMark>ОТСУТСТВУЕТ</catESAD_cu:GoodsMark>
+          <catESAD_cu:GoodsModel>ОТСУТСТВУЕТ</catESAD_cu:GoodsModel>
+          <catESAD_cu:GoodsMarking>C0909-IY85-4</catESAD_cu:GoodsMarking>
+          <catESAD_cu:GoodsGroupQuantity>
+            <catESAD_cu:GoodsQuantity>50000.00</catESAD_cu:GoodsQuantity>
+            <catESAD_cu:MeasureUnitQualifierName>ШТ</catESAD_cu:MeasureUnitQualifierName>
+            <catESAD_cu:MeasureUnitQualifierCode>796</catESAD_cu:MeasureUnitQualifierCode>
+          </catESAD_cu:GoodsGroupQuantity>
+          <catESAD_cu:LineNum>1</catESAD_cu:LineNum>
+        </catESAD_cu:GoodsGroupInformation>
+        <catESAD_cu:GroupNum>5</catESAD_cu:GroupNum>
+      </catESAD_cu:GoodsGroupDescription>
+      <catESAD_cu:GoodsGroupDescription>
+        <catESAD_cu:GoodsDescription>КРИСТАЛЛЫ ДЛЯ СВЕТОИЗЛУЧАЮЩИХ ДИОДОВ, ЦВЕТ: ЖЕЛТЫЙ, ДЛИНА ВОЛНЫ ИЗЛУЧЕНИЯ 588-594NM, СИЛА СВЕТА 130 MCD</catESAD_cu:GoodsDescription>
+        <catESAD_cu:GoodsGroupInformation>
+          <catESAD_cu:Manufacturer>FULL SUN OPTOTECH CO., LTD.</catESAD_cu:Manufacturer>
+          <catESAD_cu:TradeMark>ОТСУТСТВУЕТ</catESAD_cu:TradeMark>
+          <catESAD_cu:GoodsMark>ОТСУТСТВУЕТ</catESAD_cu:GoodsMark>
+          <catESAD_cu:GoodsModel>ОТСУТСТВУЕТ</catESAD_cu:GoodsModel>
+          <catESAD_cu:GoodsMarking>C0808-OPY90-100</catESAD_cu:GoodsMarking>
+          <catESAD_cu:GoodsGroupQuantity>
+            <catESAD_cu:GoodsQuantity>50000.00</catESAD_cu:GoodsQuantity>
+            <catESAD_cu:MeasureUnitQualifierName>ШТ</catESAD_cu:MeasureUnitQualifierName>
+            <catESAD_cu:MeasureUnitQualifierCode>796</catESAD_cu:MeasureUnitQualifierCode>
+          </catESAD_cu:GoodsGroupQuantity>
+          <catESAD_cu:LineNum>1</catESAD_cu:LineNum>
+        </catESAD_cu:GoodsGroupInformation>
+        <catESAD_cu:GroupNum>6</catESAD_cu:GroupNum>
+      </catESAD_cu:GoodsGroupDescription>
+      <catESAD_cu:GoodsGroupDescription>
+        <catESAD_cu:GoodsDescription>КРИСТАЛЛЫ ДЛЯ СВЕТОИЗЛУЧАЮЩИХ ДИОДОВ, ЦВЕТ: ЖЕЛТЫЙ, ДЛИНА ВОЛНЫ ИЗЛУЧЕНИЯ 590NM, СИЛА СВЕТА 740-780 MCD</catESAD_cu:GoodsDescription>
+        <catESAD_cu:GoodsGroupInformation>
+          <catESAD_cu:Manufacturer>FULL SUN OPTOTECH CO., LTD.</catESAD_cu:Manufacturer>
+          <catESAD_cu:TradeMark>ОТСУТСТВУЕТ</catESAD_cu:TradeMark>
+          <catESAD_cu:GoodsMark>ОТСУТСТВУЕТ</catESAD_cu:GoodsMark>
+          <catESAD_cu:GoodsModel>ОТСУТСТВУЕТ</catESAD_cu:GoodsModel>
+          <catESAD_cu:GoodsMarking>C1414-EKY90-735</catESAD_cu:GoodsMarking>
+          <catESAD_cu:GoodsGroupQuantity>
+            <catESAD_cu:GoodsQuantity>10000.00</catESAD_cu:GoodsQuantity>
+            <catESAD_cu:MeasureUnitQualifierName>ШТ</catESAD_cu:MeasureUnitQualifierName>
+            <catESAD_cu:MeasureUnitQualifierCode>796</catESAD_cu:MeasureUnitQualifierCode>
+          </catESAD_cu:GoodsGroupQuantity>
+          <catESAD_cu:LineNum>1</catESAD_cu:LineNum>
+        </catESAD_cu:GoodsGroupInformation>
+        <catESAD_cu:GroupNum>7</catESAD_cu:GroupNum>
+      </catESAD_cu:GoodsGroupDescription>
+      <catESAD_cu:GoodsGroupDescription>
+        <catESAD_cu:GoodsDescription>КРИСТАЛЛЫ ДЛЯ СВЕТОИЗЛУЧАЮЩИХ ДИОДОВ, ЦВЕТ: ЗЕЛЕНЫЙ, ДЛИНА ВОЛНЫ ИЗЛУЧЕНИЯ 520NM, СИЛА СВЕТА 133-167 MCD</catESAD_cu:GoodsDescription>
+        <catESAD_cu:GoodsGroupInformation>
+          <catESAD_cu:Manufacturer>FULL SUN OPTOTECH CO., LTD.</catESAD_cu:Manufacturer>
+          <catESAD_cu:TradeMark>ОТСУТСТВУЕТ</catESAD_cu:TradeMark>
+          <catESAD_cu:GoodsMark>ОТСУТСТВУЕТ</catESAD_cu:GoodsMark>
+          <catESAD_cu:GoodsModel>ОТСУТСТВУЕТ</catESAD_cu:GoodsModel>
+          <catESAD_cu:GoodsMarking>C1010-EG25-167</catESAD_cu:GoodsMarking>
+          <catESAD_cu:GoodsGroupQuantity>
+            <catESAD_cu:GoodsQuantity>20000.00</catESAD_cu:GoodsQuantity>
+            <catESAD_cu:MeasureUnitQualifierName>ШТ</catESAD_cu:MeasureUnitQualifierName>
+            <catESAD_cu:MeasureUnitQualifierCode>796</catESAD_cu:MeasureUnitQualifierCode>
+          </catESAD_cu:GoodsGroupQuantity>
+          <catESAD_cu:LineNum>1</catESAD_cu:LineNum>
+        </catESAD_cu:GoodsGroupInformation>
+        <catESAD_cu:GroupNum>8</catESAD_cu:GroupNum>
+      </catESAD_cu:GoodsGroupDescription>
+      <catESAD_cu:GoodsGroupDescription>
+        <catESAD_cu:GoodsDescription>КРИСТАЛЛЫ ДЛЯ СВЕТОИЗЛУЧАЮЩИХ ДИОДОВ, ЦВЕТ: ЗЕЛЕНЫЙ, ДЛИНА ВОЛНЫ ИЗЛУЧЕНИЯ 520NM, СИЛА СВЕТА 400 MCD</catESAD_cu:GoodsDescription>
+        <catESAD_cu:GoodsGroupInformation>
+          <catESAD_cu:Manufacturer>FULL SUN OPTOTECH CO., LTD.</catESAD_cu:Manufacturer>
+          <catESAD_cu:TradeMark>ОТСУТСТВУЕТ</catESAD_cu:TradeMark>
+          <catESAD_cu:GoodsMark>ОТСУТСТВУЕТ</catESAD_cu:GoodsMark>
+          <catESAD_cu:GoodsModel>ОТСУТСТВУЕТ</catESAD_cu:GoodsModel>
+          <catESAD_cu:GoodsMarking>C1312-TG25-320</catESAD_cu:GoodsMarking>
+          <catESAD_cu:GoodsGroupQuantity>
+            <catESAD_cu:GoodsQuantity>20000.00</catESAD_cu:GoodsQuantity>
+            <catESAD_cu:MeasureUnitQualifierName>ШТ</catESAD_cu:MeasureUnitQualifierName>
+            <catESAD_cu:MeasureUnitQualifierCode>796</catESAD_cu:MeasureUnitQualifierCode>
+          </catESAD_cu:GoodsGroupQuantity>
+          <catESAD_cu:LineNum>1</catESAD_cu:LineNum>
+        </catESAD_cu:GoodsGroupInformation>
+        <catESAD_cu:GroupNum>9</catESAD_cu:GroupNum>
+      </catESAD_cu:GoodsGroupDescription>
+      <catESAD_cu:GoodsGroupDescription>
+        <catESAD_cu:GoodsDescription>КРИСТАЛЛЫ ДЛЯ СВЕТОИЗЛУЧАЮЩИХ ДИОДОВ, ЦВЕТ: СИНИЙ, ДЛИНА ВОЛНЫ ИЗЛУЧЕНИЯ 470NM, СИЛА СВЕТА 170MCD</catESAD_cu:GoodsDescription>
+        <catESAD_cu:GoodsGroupInformation>
+          <catESAD_cu:Manufacturer>FULL SUN OPTOTECH CO., LTD.</catESAD_cu:Manufacturer>
+          <catESAD_cu:TradeMark>ОТСУТСТВУЕТ</catESAD_cu:TradeMark>
+          <catESAD_cu:GoodsMark>ОТСУТСТВУЕТ</catESAD_cu:GoodsMark>
+          <catESAD_cu:GoodsModel>ОТСУТСТВУЕТ</catESAD_cu:GoodsModel>
+          <catESAD_cu:GoodsMarking>C1108-TB71-170</catESAD_cu:GoodsMarking>
+          <catESAD_cu:GoodsGroupQuantity>
+            <catESAD_cu:GoodsQuantity>20000.00</catESAD_cu:GoodsQuantity>
+            <catESAD_cu:MeasureUnitQualifierName>ШТ</catESAD_cu:MeasureUnitQualifierName>
+            <catESAD_cu:MeasureUnitQualifierCode>796</catESAD_cu:MeasureUnitQualifierCode>
+          </catESAD_cu:GoodsGroupQuantity>
+          <catESAD_cu:LineNum>1</catESAD_cu:LineNum>
+        </catESAD_cu:GoodsGroupInformation>
+        <catESAD_cu:GroupNum>10</catESAD_cu:GroupNum>
+      </catESAD_cu:GoodsGroupDescription>
+      <catESAD_cu:GoodsGroupDescription>
+        <catESAD_cu:GoodsDescription>КРИСТАЛЛЫ ДЛЯ СВЕТОИЗЛУЧАЮЩИХ ДИОДОВ, ЦВЕТ: СИНИЙ, ДЛИНА ВОЛНЫ ИЗЛУЧЕНИЯ 470NM, СИЛА СВЕТА 575 MCD</catESAD_cu:GoodsDescription>
+        <catESAD_cu:GoodsGroupInformation>
+          <catESAD_cu:Manufacturer>FULL SUN OPTOTECH CO., LTD.</catESAD_cu:Manufacturer>
+          <catESAD_cu:TradeMark>ОТСУТСТВУЕТ</catESAD_cu:TradeMark>
+          <catESAD_cu:GoodsMark>ОТСУТСТВУЕТ</catESAD_cu:GoodsMark>
+          <catESAD_cu:GoodsModel>ОТСУТСТВУЕТ</catESAD_cu:GoodsModel>
+          <catESAD_cu:GoodsMarking>C1411-EB70-575</catESAD_cu:GoodsMarking>
+          <catESAD_cu:GoodsGroupQuantity>
+            <catESAD_cu:GoodsQuantity>20000.00</catESAD_cu:GoodsQuantity>
+            <catESAD_cu:MeasureUnitQualifierName>ШТ</catESAD_cu:MeasureUnitQualifierName>
+            <catESAD_cu:MeasureUnitQualifierCode>796</catESAD_cu:MeasureUnitQualifierCode>
+          </catESAD_cu:GoodsGroupQuantity>
+          <catESAD_cu:LineNum>1</catESAD_cu:LineNum>
+        </catESAD_cu:GoodsGroupInformation>
+        <catESAD_cu:GroupNum>11</catESAD_cu:GroupNum>
+      </catESAD_cu:GoodsGroupDescription>
+      <catESAD_cu:GoodsGroupDescription>
+        <catESAD_cu:GoodsDescription>КРИСТАЛЛЫ ДЛЯ СВЕТОИЗЛУЧАЮЩИХ ДИОДОВ, ДЛИНА ВОЛНЫ ИЗЛУЧЕНИЯ 810NM, СИЛА СВЕТА 4 NW</catESAD_cu:GoodsDescription>
+        <catESAD_cu:GoodsGroupInformation>
+          <catESAD_cu:Manufacturer>FULL SUN OPTOTECH CO., LTD.</catESAD_cu:Manufacturer>
+          <catESAD_cu:TradeMark>ОТСУТСТВУЕТ</catESAD_cu:TradeMark>
+          <catESAD_cu:GoodsMark>ОТСУТСТВУЕТ</catESAD_cu:GoodsMark>
+          <catESAD_cu:GoodsModel>ОТСУТСТВУЕТ</catESAD_cu:GoodsModel>
+          <catESAD_cu:GoodsMarking>C1414-100EPKI810-33</catESAD_cu:GoodsMarking>
+          <catESAD_cu:GoodsGroupQuantity>
+            <catESAD_cu:GoodsQuantity>10000.00</catESAD_cu:GoodsQuantity>
+            <catESAD_cu:MeasureUnitQualifierName>ШТ</catESAD_cu:MeasureUnitQualifierName>
+            <catESAD_cu:MeasureUnitQualifierCode>796</catESAD_cu:MeasureUnitQualifierCode>
+          </catESAD_cu:GoodsGroupQuantity>
+          <catESAD_cu:LineNum>1</catESAD_cu:LineNum>
+        </catESAD_cu:GoodsGroupInformation>
+        <catESAD_cu:GroupNum>12</catESAD_cu:GroupNum>
+      </catESAD_cu:GoodsGroupDescription>
+      <catESAD_cu:GoodsGroupDescription>
+        <catESAD_cu:GoodsDescription>КРИСТАЛЛЫ ДЛЯ СВЕТОИЗЛУЧАЮЩИХ ДИОДОВ, ЦВЕТ: ЗЕЛЕНЫЙ, ДЛИНА ВОЛНЫ ИЗЛУЧЕНИЯ 520NM, СИЛА СВЕТА 133-167 MCD</catESAD_cu:GoodsDescription>
+        <catESAD_cu:GoodsGroupInformation>
+          <catESAD_cu:Manufacturer>FULL SUN OPTOTECH CO., LTD.</catESAD_cu:Manufacturer>
+          <catESAD_cu:TradeMark>ОТСУТСТВУЕТ</catESAD_cu:TradeMark>
+          <catESAD_cu:GoodsMark>ОТСУТСТВУЕТ</catESAD_cu:GoodsMark>
+          <catESAD_cu:GoodsModel>ОТСУТСТВУЕТ</catESAD_cu:GoodsModel>
+          <catESAD_cu:GoodsMarking>C1010-EG25-167</catESAD_cu:GoodsMarking>
+          <catESAD_cu:GoodsGroupQuantity>
+            <catESAD_cu:GoodsQuantity>30000.00</catESAD_cu:GoodsQuantity>
+            <catESAD_cu:MeasureUnitQualifierName>ШТ</catESAD_cu:MeasureUnitQualifierName>
+            <catESAD_cu:MeasureUnitQualifierCode>796</catESAD_cu:MeasureUnitQualifierCode>
+          </catESAD_cu:GoodsGroupQuantity>
+          <catESAD_cu:LineNum>1</catESAD_cu:LineNum>
+        </catESAD_cu:GoodsGroupInformation>
+        <catESAD_cu:GroupNum>13</catESAD_cu:GroupNum>
+      </catESAD_cu:GoodsGroupDescription>
+      <catESAD_cu:Preferencii>
+        <catESAD_cu:CustomsTax>ОО</catESAD_cu:CustomsTax>
+        <catESAD_cu:CustomsDuty>ОО</catESAD_cu:CustomsDuty>
+        <catESAD_cu:Excise>-</catESAD_cu:Excise>
+        <catESAD_cu:Rate>ОО</catESAD_cu:Rate>
+      </catESAD_cu:Preferencii>
+      <ESADout_CUPresentedDocument>
+        <cat_ru:PrDocumentName>ОБЩАЯ НАКЛАДНАЯ ЭКСПРЕСС-ДОСТАВКИ</cat_ru:PrDocumentName>
+        <cat_ru:PrDocumentNumber>756-17204213</cat_ru:PrDocumentNumber>
+        <cat_ru:PrDocumentDate>2022-01-26</cat_ru:PrDocumentDate>
+        <catESAD_cu:PresentedDocumentModeCode>02020</catESAD_cu:PresentedDocumentModeCode>
+        <RUDECLcat:DocumentPresentingDetails>
+          <RUDECLcat:DocPresentKindCode>0</RUDECLcat:DocPresentKindCode>
+        </RUDECLcat:DocumentPresentingDetails>
+      </ESADout_CUPresentedDocument>
+      <ESADout_CUPresentedDocument>
+        <cat_ru:PrDocumentName>ИНДИВ. НАКЛАДНАЯ ЭКСПРЕСС-ДОСТАВКИ</cat_ru:PrDocumentName>
+        <cat_ru:PrDocumentNumber>209739810</cat_ru:PrDocumentNumber>
+        <cat_ru:PrDocumentDate>2022-01-21</cat_ru:PrDocumentDate>
+        <catESAD_cu:PresentedDocumentModeCode>02021</catESAD_cu:PresentedDocumentModeCode>
+        <RUDECLcat:DocumentPresentingDetails>
+          <RUDECLcat:DocPresentKindCode>0</RUDECLcat:DocPresentKindCode>
+        </RUDECLcat:DocumentPresentingDetails>
+      </ESADout_CUPresentedDocument>
+      <ESADout_CUPresentedDocument>
+        <cat_ru:PrDocumentName>ИНЫЕ ТРАНСПОРТНЫЕ ДОКУМЕНТЫ</cat_ru:PrDocumentName>
+        <cat_ru:PrDocumentNumber>0472</cat_ru:PrDocumentNumber>
+        <cat_ru:PrDocumentDate>2022-01-28</cat_ru:PrDocumentDate>
+        <catESAD_cu:PresentedDocumentModeCode>02099</catESAD_cu:PresentedDocumentModeCode>
+        <RUDECLcat:DocumentPresentingDetails>
+          <RUDECLcat:DocPresentKindCode>0</RUDECLcat:DocPresentKindCode>
+        </RUDECLcat:DocumentPresentingDetails>
+      </ESADout_CUPresentedDocument>
+      <ESADout_CUPresentedDocument>
+        <cat_ru:PrDocumentName>ИНЫЕ ТРАНСПОРТНЫЕ ДОКУМЕНТЫ</cat_ru:PrDocumentName>
+        <cat_ru:PrDocumentNumber>0473</cat_ru:PrDocumentNumber>
+        <cat_ru:PrDocumentDate>2022-01-28</cat_ru:PrDocumentDate>
+        <catESAD_cu:PresentedDocumentModeCode>02099</catESAD_cu:PresentedDocumentModeCode>
+        <RUDECLcat:DocumentPresentingDetails>
+          <RUDECLcat:DocPresentKindCode>0</RUDECLcat:DocPresentKindCode>
+        </RUDECLcat:DocumentPresentingDetails>
+      </ESADout_CUPresentedDocument>
+      <ESADout_CUPresentedDocument>
+        <cat_ru:PrDocumentName>ДОГОВОР (КОНТРАКТ)</cat_ru:PrDocumentName>
+        <cat_ru:PrDocumentNumber>8/2021</cat_ru:PrDocumentNumber>
+        <cat_ru:PrDocumentDate>2021-12-02</cat_ru:PrDocumentDate>
+        <catESAD_cu:PresentedDocumentModeCode>03011</catESAD_cu:PresentedDocumentModeCode>
+        <RUDECLcat:DocumentPresentingDetails>
+          <RUDECLcat:DocPresentKindCode>0</RUDECLcat:DocPresentKindCode>
+        </RUDECLcat:DocumentPresentingDetails>
+      </ESADout_CUPresentedDocument>
+      <ESADout_CUPresentedDocument>
+        <cat_ru:PrDocumentName>ДОПОЛНЕНИЕ К ДОГОВОРУ</cat_ru:PrDocumentName>
+        <cat_ru:PrDocumentNumber>1</cat_ru:PrDocumentNumber>
+        <cat_ru:PrDocumentDate>2021-12-02</cat_ru:PrDocumentDate>
+        <catESAD_cu:PresentedDocumentModeCode>03012</catESAD_cu:PresentedDocumentModeCode>
+        <RUDECLcat:DocumentPresentingDetails>
+          <RUDECLcat:DocPresentKindCode>0</RUDECLcat:DocPresentKindCode>
+        </RUDECLcat:DocumentPresentingDetails>
+      </ESADout_CUPresentedDocument>
+      <ESADout_CUPresentedDocument>
+        <cat_ru:PrDocumentName>ДОПОЛНЕНИЕ К ДОГОВОРУ</cat_ru:PrDocumentName>
+        <cat_ru:PrDocumentNumber>Б/Н</cat_ru:PrDocumentNumber>
+        <cat_ru:PrDocumentDate>2021-12-02</cat_ru:PrDocumentDate>
+        <catESAD_cu:PresentedDocumentModeCode>03012</catESAD_cu:PresentedDocumentModeCode>
+        <RUDECLcat:DocumentPresentingDetails>
+          <RUDECLcat:DocPresentKindCode>0</RUDECLcat:DocPresentKindCode>
+        </RUDECLcat:DocumentPresentingDetails>
+      </ESADout_CUPresentedDocument>
+      <ESADout_CUPresentedDocument>
+        <cat_ru:PrDocumentName>УЧРЕДИТЕЛЬНЫЕ ДОКУМЕНТЫ</cat_ru:PrDocumentName>
+        <cat_ru:PrDocumentNumber>53001344912</cat_ru:PrDocumentNumber>
+        <cat_ru:PrDocumentDate>1994-07-01</cat_ru:PrDocumentDate>
+        <catESAD_cu:PresentedDocumentModeCode>04011</catESAD_cu:PresentedDocumentModeCode>
+        <RUDECLcat:DocumentPresentingDetails>
+          <RUDECLcat:DocPresentKindCode>0</RUDECLcat:DocPresentKindCode>
+        </RUDECLcat:DocumentPresentingDetails>
+      </ESADout_CUPresentedDocument>
+      <ESADout_CUPresentedDocument>
+        <cat_ru:PrDocumentName>УЧРЕДИТЕЛЬНЫЕ ДОКУМЕНТЫ</cat_ru:PrDocumentName>
+        <cat_ru:PrDocumentNumber>53 №0746496</cat_ru:PrDocumentNumber>
+        <cat_ru:PrDocumentDate>2002-12-04</cat_ru:PrDocumentDate>
+        <catESAD_cu:PresentedDocumentModeCode>04011</catESAD_cu:PresentedDocumentModeCode>
+        <RUDECLcat:DocumentPresentingDetails>
+          <RUDECLcat:DocPresentKindCode>0</RUDECLcat:DocPresentKindCode>
+        </RUDECLcat:DocumentPresentingDetails>
+      </ESADout_CUPresentedDocument>
+      <ESADout_CUPresentedDocument>
+        <cat_ru:PrDocumentName>УЧРЕДИТЕЛЬНЫЕ ДОКУМЕНТЫ</cat_ru:PrDocumentName>
+        <cat_ru:PrDocumentNumber>Б/Н</cat_ru:PrDocumentNumber>
+        <cat_ru:PrDocumentDate>2016-07-21</cat_ru:PrDocumentDate>
+        <catESAD_cu:PresentedDocumentModeCode>04011</catESAD_cu:PresentedDocumentModeCode>
+        <RUDECLcat:DocumentPresentingDetails>
+          <RUDECLcat:DocPresentKindCode>0</RUDECLcat:DocPresentKindCode>
+        </RUDECLcat:DocumentPresentingDetails>
+      </ESADout_CUPresentedDocument>
+      <ESADout_CUPresentedDocument>
+        <cat_ru:PrDocumentName>ИНВОЙС (СЧЕТ-ФАКТУРА) К ДОГОВОРУ</cat_ru:PrDocumentName>
+        <cat_ru:PrDocumentNumber>211202015/201202022</cat_ru:PrDocumentNumber>
+        <cat_ru:PrDocumentDate>2022-01-21</cat_ru:PrDocumentDate>
+        <catESAD_cu:PresentedDocumentModeCode>04021</catESAD_cu:PresentedDocumentModeCode>
+        <RUDECLcat:DocumentPresentingDetails>
+          <RUDECLcat:DocPresentKindCode>0</RUDECLcat:DocPresentKindCode>
+        </RUDECLcat:DocumentPresentingDetails>
+      </ESADout_CUPresentedDocument>
+      <ESADout_CUPresentedDocument>
+        <cat_ru:PrDocumentName>ДОКУМЕНТЫ ПО ОПЛАТЕ ТОВАРА</cat_ru:PrDocumentName>
+        <cat_ru:PrDocumentNumber>13</cat_ru:PrDocumentNumber>
+        <cat_ru:PrDocumentDate>2021-12-03</cat_ru:PrDocumentDate>
+        <catESAD_cu:PresentedDocumentModeCode>04023</catESAD_cu:PresentedDocumentModeCode>
+        <RUDECLcat:DocumentPresentingDetails>
+          <RUDECLcat:DocPresentKindCode>0</RUDECLcat:DocPresentKindCode>
+        </RUDECLcat:DocumentPresentingDetails>
+      </ESADout_CUPresentedDocument>
+      <ESADout_CUPresentedDocument>
+        <cat_ru:PrDocumentName>ДОКУМЕНТЫ ПО ОПЛАТЕ ТОВАРА</cat_ru:PrDocumentName>
+        <cat_ru:PrDocumentNumber>14</cat_ru:PrDocumentNumber>
+        <cat_ru:PrDocumentDate>2021-12-10</cat_ru:PrDocumentDate>
+        <catESAD_cu:PresentedDocumentModeCode>04023</catESAD_cu:PresentedDocumentModeCode>
+        <RUDECLcat:DocumentPresentingDetails>
+          <RUDECLcat:DocPresentKindCode>0</RUDECLcat:DocPresentKindCode>
+        </RUDECLcat:DocumentPresentingDetails>
+      </ESADout_CUPresentedDocument>
+      <ESADout_CUPresentedDocument>
+        <cat_ru:PrDocumentName>ИНВОЙС (СЧЕТ-ФАКТУРА) ЗА ПЕРЕВОЗКУ/ПОГРУЗКУ</cat_ru:PrDocumentName>
+        <cat_ru:PrDocumentNumber>F209739810</cat_ru:PrDocumentNumber>
+        <cat_ru:PrDocumentDate>2022-01-31</cat_ru:PrDocumentDate>
+        <catESAD_cu:PresentedDocumentModeCode>04031</catESAD_cu:PresentedDocumentModeCode>
+        <RUDECLcat:DocumentPresentingDetails>
+          <RUDECLcat:DocPresentKindCode>0</RUDECLcat:DocPresentKindCode>
+        </RUDECLcat:DocumentPresentingDetails>
+      </ESADout_CUPresentedDocument>
+      <ESADout_CUPresentedDocument>
+        <cat_ru:PrDocumentName>ДОГОВОР ПО ПЕРЕВОЗКЕ,ПОГРУЗКЕ,РАЗГРУЗКЕ/ПЕРЕГРУЗКЕ</cat_ru:PrDocumentName>
+        <cat_ru:PrDocumentNumber>9091</cat_ru:PrDocumentNumber>
+        <cat_ru:PrDocumentDate>2018-05-07</cat_ru:PrDocumentDate>
+        <catESAD_cu:PresentedDocumentModeCode>04033</catESAD_cu:PresentedDocumentModeCode>
+        <RUDECLcat:DocumentPresentingDetails>
+          <RUDECLcat:DocPresentKindCode>0</RUDECLcat:DocPresentKindCode>
+        </RUDECLcat:DocumentPresentingDetails>
+      </ESADout_CUPresentedDocument>
+      <ESADout_CUPresentedDocument>
+        <cat_ru:PrDocumentName>ОТГРУЗОЧНЫЙ (УПАКОВОЧНЫЙ) ЛИСТ</cat_ru:PrDocumentName>
+        <cat_ru:PrDocumentNumber>220120141</cat_ru:PrDocumentNumber>
+        <cat_ru:PrDocumentDate>2022-01-21</cat_ru:PrDocumentDate>
+        <catESAD_cu:PresentedDocumentModeCode>04131</catESAD_cu:PresentedDocumentModeCode>
+        <RUDECLcat:DocumentPresentingDetails>
+          <RUDECLcat:DocPresentKindCode>0</RUDECLcat:DocPresentKindCode>
+        </RUDECLcat:DocumentPresentingDetails>
+      </ESADout_CUPresentedDocument>
+      <ESADout_CUPresentedDocument>
+        <cat_ru:PrDocumentName>ИНЫЕ ДОКУМЕНТЫ ДЛЯ ЦЕЛЕЙ КЛАССИФИКАЦИИ ТОВАРА</cat_ru:PrDocumentName>
+        <cat_ru:PrDocumentNumber>БН</cat_ru:PrDocumentNumber>
+        <cat_ru:PrDocumentDate>2022-02-08</cat_ru:PrDocumentDate>
+        <catESAD_cu:PresentedDocumentModeCode>05999</catESAD_cu:PresentedDocumentModeCode>
+        <RUDECLcat:DocumentPresentingDetails>
+          <RUDECLcat:DocPresentKindCode>0</RUDECLcat:DocPresentKindCode>
+        </RUDECLcat:DocumentPresentingDetails>
+      </ESADout_CUPresentedDocument>
+      <ESADout_CUPresentedDocument>
+        <cat_ru:PrDocumentName>ИНЫЕ ГРАФИЧЕСКИЕ МАТЕРИАЛЫ</cat_ru:PrDocumentName>
+        <cat_ru:PrDocumentNumber>211202015</cat_ru:PrDocumentNumber>
+        <cat_ru:PrDocumentDate>2021-12-02</cat_ru:PrDocumentDate>
+        <catESAD_cu:PresentedDocumentModeCode>09023</catESAD_cu:PresentedDocumentModeCode>
+        <RUDECLcat:DocumentPresentingDetails>
+          <RUDECLcat:DocPresentKindCode>0</RUDECLcat:DocPresentKindCode>
+        </RUDECLcat:DocumentPresentingDetails>
+      </ESADout_CUPresentedDocument>
+      <ESADout_CUPresentedDocument>
+        <cat_ru:PrDocumentName>ИНЫЕ ГРАФИЧЕСКИЕ МАТЕРИАЛЫ</cat_ru:PrDocumentName>
+        <cat_ru:PrDocumentNumber>8/2021</cat_ru:PrDocumentNumber>
+        <cat_ru:PrDocumentDate>2021-12-02</cat_ru:PrDocumentDate>
+        <catESAD_cu:PresentedDocumentModeCode>09023</catESAD_cu:PresentedDocumentModeCode>
+        <RUDECLcat:DocumentPresentingDetails>
+          <RUDECLcat:DocPresentKindCode>0</RUDECLcat:DocPresentKindCode>
+        </RUDECLcat:DocumentPresentingDetails>
+      </ESADout_CUPresentedDocument>
+      <ESADout_CUPresentedDocument>
+        <cat_ru:PrDocumentName>ИНЫЕ ГРАФИЧЕСКИЕ МАТЕРИАЛЫ</cat_ru:PrDocumentName>
+        <cat_ru:PrDocumentNumber>13</cat_ru:PrDocumentNumber>
+        <cat_ru:PrDocumentDate>2021-12-03</cat_ru:PrDocumentDate>
+        <catESAD_cu:PresentedDocumentModeCode>09023</catESAD_cu:PresentedDocumentModeCode>
+        <RUDECLcat:DocumentPresentingDetails>
+          <RUDECLcat:DocPresentKindCode>0</RUDECLcat:DocPresentKindCode>
+        </RUDECLcat:DocumentPresentingDetails>
+      </ESADout_CUPresentedDocument>
+      <ESADout_CUPresentedDocument>
+        <cat_ru:PrDocumentName>ИНЫЕ ГРАФИЧЕСКИЕ МАТЕРИАЛЫ</cat_ru:PrDocumentName>
+        <cat_ru:PrDocumentNumber>211202022</cat_ru:PrDocumentNumber>
+        <cat_ru:PrDocumentDate>2021-12-07</cat_ru:PrDocumentDate>
+        <catESAD_cu:PresentedDocumentModeCode>09023</catESAD_cu:PresentedDocumentModeCode>
+        <RUDECLcat:DocumentPresentingDetails>
+          <RUDECLcat:DocPresentKindCode>0</RUDECLcat:DocPresentKindCode>
+        </RUDECLcat:DocumentPresentingDetails>
+      </ESADout_CUPresentedDocument>
+      <ESADout_CUPresentedDocument>
+        <cat_ru:PrDocumentName>ИНЫЕ ГРАФИЧЕСКИЕ МАТЕРИАЛЫ</cat_ru:PrDocumentName>
+        <cat_ru:PrDocumentNumber>14</cat_ru:PrDocumentNumber>
+        <cat_ru:PrDocumentDate>2021-12-10</cat_ru:PrDocumentDate>
+        <catESAD_cu:PresentedDocumentModeCode>09023</catESAD_cu:PresentedDocumentModeCode>
+        <RUDECLcat:DocumentPresentingDetails>
+          <RUDECLcat:DocPresentKindCode>0</RUDECLcat:DocPresentKindCode>
+        </RUDECLcat:DocumentPresentingDetails>
+      </ESADout_CUPresentedDocument>
+      <ESADout_CUPresentedDocument>
+        <cat_ru:PrDocumentName>ИНЫЕ ГРАФИЧЕСКИЕ МАТЕРИАЛЫ</cat_ru:PrDocumentName>
+        <cat_ru:PrDocumentNumber>211202015/201202022</cat_ru:PrDocumentNumber>
+        <cat_ru:PrDocumentDate>2022-01-21</cat_ru:PrDocumentDate>
+        <catESAD_cu:PresentedDocumentModeCode>09023</catESAD_cu:PresentedDocumentModeCode>
+        <RUDECLcat:DocumentPresentingDetails>
+          <RUDECLcat:DocPresentKindCode>0</RUDECLcat:DocPresentKindCode>
+        </RUDECLcat:DocumentPresentingDetails>
+      </ESADout_CUPresentedDocument>
+      <ESADout_CUPresentedDocument>
+        <cat_ru:PrDocumentName>ИНЫЕ ГРАФИЧЕСКИЕ МАТЕРИАЛЫ</cat_ru:PrDocumentName>
+        <cat_ru:PrDocumentNumber>ЮЭ9965-22- 23286341</cat_ru:PrDocumentNumber>
+        <cat_ru:PrDocumentDate>2022-01-21</cat_ru:PrDocumentDate>
+        <catESAD_cu:PresentedDocumentModeCode>09023</catESAD_cu:PresentedDocumentModeCode>
+        <RUDECLcat:DocumentPresentingDetails>
+          <RUDECLcat:DocPresentKindCode>0</RUDECLcat:DocPresentKindCode>
+        </RUDECLcat:DocumentPresentingDetails>
+      </ESADout_CUPresentedDocument>
+      <ESADout_CUPresentedDocument>
+        <cat_ru:PrDocumentName>ИНЫЕ ГРАФИЧЕСКИЕ МАТЕРИАЛЫ</cat_ru:PrDocumentName>
+        <cat_ru:PrDocumentNumber>0002186</cat_ru:PrDocumentNumber>
+        <cat_ru:PrDocumentDate>2022-01-28</cat_ru:PrDocumentDate>
+        <catESAD_cu:PresentedDocumentModeCode>09023</catESAD_cu:PresentedDocumentModeCode>
+        <RUDECLcat:DocumentPresentingDetails>
+          <RUDECLcat:DocPresentKindCode>0</RUDECLcat:DocPresentKindCode>
+        </RUDECLcat:DocumentPresentingDetails>
+      </ESADout_CUPresentedDocument>
+      <ESADout_CUPresentedDocument>
+        <cat_ru:PrDocumentName>ИНЫЕ ГРАФИЧЕСКИЕ МАТЕРИАЛЫ</cat_ru:PrDocumentName>
+        <cat_ru:PrDocumentNumber>0472</cat_ru:PrDocumentNumber>
+        <cat_ru:PrDocumentDate>2022-01-28</cat_ru:PrDocumentDate>
+        <catESAD_cu:PresentedDocumentModeCode>09023</catESAD_cu:PresentedDocumentModeCode>
+        <RUDECLcat:DocumentPresentingDetails>
+          <RUDECLcat:DocPresentKindCode>0</RUDECLcat:DocPresentKindCode>
+        </RUDECLcat:DocumentPresentingDetails>
+      </ESADout_CUPresentedDocument>
+      <ESADout_CUPresentedDocument>
+        <cat_ru:PrDocumentName>ИНЫЕ ГРАФИЧЕСКИЕ МАТЕРИАЛЫ</cat_ru:PrDocumentName>
+        <cat_ru:PrDocumentNumber>0473</cat_ru:PrDocumentNumber>
+        <cat_ru:PrDocumentDate>2022-01-28</cat_ru:PrDocumentDate>
+        <catESAD_cu:PresentedDocumentModeCode>09023</catESAD_cu:PresentedDocumentModeCode>
+        <RUDECLcat:DocumentPresentingDetails>
+          <RUDECLcat:DocPresentKindCode>0</RUDECLcat:DocPresentKindCode>
+        </RUDECLcat:DocumentPresentingDetails>
+      </ESADout_CUPresentedDocument>
+      <ESADout_CUPresentedDocument>
+        <cat_ru:PrDocumentName>ДОКУМЕНТ, УДОСТОВЕРЯЮЩИЙ ЛИЧНОСТЬ</cat_ru:PrDocumentName>
+        <cat_ru:PrDocumentNumber>49 17 183131</cat_ru:PrDocumentNumber>
+        <cat_ru:PrDocumentDate>2017-10-10</cat_ru:PrDocumentDate>
+        <catESAD_cu:PresentedDocumentModeCode>11001</catESAD_cu:PresentedDocumentModeCode>
+        <RUDECLcat:DocumentPresentingDetails>
+          <RUDECLcat:DocPresentKindCode>0</RUDECLcat:DocPresentKindCode>
+        </RUDECLcat:DocumentPresentingDetails>
+      </ESADout_CUPresentedDocument>
+      <ESADout_CUPresentedDocument>
+        <cat_ru:PrDocumentName>ДОКУМЕНТ, УДОСТОВЕРЯЮЩИЙ ПОЛНОМОЧИЯ ЛИЦА</cat_ru:PrDocumentName>
+        <cat_ru:PrDocumentNumber>8</cat_ru:PrDocumentNumber>
+        <cat_ru:PrDocumentDate>2018-03-02</cat_ru:PrDocumentDate>
+        <catESAD_cu:PresentedDocumentModeCode>11003</catESAD_cu:PresentedDocumentModeCode>
+        <RUDECLcat:DocumentPresentingDetails>
+          <RUDECLcat:DocPresentKindCode>0</RUDECLcat:DocPresentKindCode>
+        </RUDECLcat:DocumentPresentingDetails>
+      </ESADout_CUPresentedDocument>
+      <ESADout_CUCustomsPaymentCalculation>
+        <catESAD_cu:PaymentModeCode>1010</catESAD_cu:PaymentModeCode>
+        <catESAD_cu:PaymentAmount>1550.00</catESAD_cu:PaymentAmount>
+        <catESAD_cu:PaymentCurrencyCode>643</catESAD_cu:PaymentCurrencyCode>
+        <catESAD_cu:TaxBase>419693.98</catESAD_cu:TaxBase>
+        <catESAD_cu:TaxBaseCurrencyCode>643</catESAD_cu:TaxBaseCurrencyCode>
+        <catESAD_cu:Rate>1550.00</catESAD_cu:Rate>
+        <catESAD_cu:RateTypeCode>*</catESAD_cu:RateTypeCode>
+        <catESAD_cu:RateCurrencyCode>643</catESAD_cu:RateCurrencyCode>
+        <catESAD_cu:RateUseDate>2022-02-08</catESAD_cu:RateUseDate>
+        <catESAD_cu:PaymentCode>ИУ</catESAD_cu:PaymentCode>
+      </ESADout_CUCustomsPaymentCalculation>
+      <ESADout_CUCustomsPaymentCalculation>
+        <catESAD_cu:PaymentModeCode>5010</catESAD_cu:PaymentModeCode>
+        <catESAD_cu:PaymentAmount>83938.80</catESAD_cu:PaymentAmount>
+        <catESAD_cu:PaymentCurrencyCode>643</catESAD_cu:PaymentCurrencyCode>
+        <catESAD_cu:TaxBase>419693.98</catESAD_cu:TaxBase>
+        <catESAD_cu:TaxBaseCurrencyCode>643</catESAD_cu:TaxBaseCurrencyCode>
+        <catESAD_cu:Rate>20.00</catESAD_cu:Rate>
+        <catESAD_cu:RateTypeCode>%</catESAD_cu:RateTypeCode>
+        <catESAD_cu:RateUseDate>2022-02-08</catESAD_cu:RateUseDate>
+        <catESAD_cu:PaymentCode>ИУ</catESAD_cu:PaymentCode>
+      </ESADout_CUCustomsPaymentCalculation>
+      <ESADGoodsPackaging>
+        <catESAD_cu:PakageQuantity>1</catESAD_cu:PakageQuantity>
+        <catESAD_cu:PakageTypeCode>1</catESAD_cu:PakageTypeCode>
+        <catESAD_cu:PackagePalleteInformation>
+          <catESAD_cu:InfoKindCode>0</catESAD_cu:InfoKindCode>
+          <catESAD_cu:PalleteCode>BX</catESAD_cu:PalleteCode>
+          <catESAD_cu:PalleteQuantity>1</catESAD_cu:PalleteQuantity>
+        </catESAD_cu:PackagePalleteInformation>
+      </ESADGoodsPackaging>
+      <ESADCustomsProcedure>
+        <catESAD_cu:MainCustomsModeCode>40</catESAD_cu:MainCustomsModeCode>
+        <catESAD_cu:PrecedingCustomsModeCode>00</catESAD_cu:PrecedingCustomsModeCode>
+        <catESAD_cu:GoodsTransferFeature>000</catESAD_cu:GoodsTransferFeature>
+      </ESADCustomsProcedure>
+    </ESADout_CUGoods>
+    <ESADout_CUPayments>
+      <ESADout_CUCustomsPayment>
+        <catESAD_cu:PaymentModeCode>1010</catESAD_cu:PaymentModeCode>
+        <catESAD_cu:PaymentAmount>1550.00</catESAD_cu:PaymentAmount>
+        <catESAD_cu:PaymentCurrencyCode>643</catESAD_cu:PaymentCurrencyCode>
+        <RFOrganizationFeatures>
+          <cat_ru:INN>5321037964</cat_ru:INN>
+        </RFOrganizationFeatures>
+      </ESADout_CUCustomsPayment>
+      <ESADout_CUCustomsPayment>
+        <catESAD_cu:PaymentModeCode>5010</catESAD_cu:PaymentModeCode>
+        <catESAD_cu:PaymentAmount>83938.80</catESAD_cu:PaymentAmount>
+        <catESAD_cu:PaymentCurrencyCode>643</catESAD_cu:PaymentCurrencyCode>
+        <RFOrganizationFeatures>
+          <cat_ru:INN>5321037964</cat_ru:INN>
+        </RFOrganizationFeatures>
+      </ESADout_CUCustomsPayment>
+    </ESADout_CUPayments>
+  </ESADout_CUGoodsShipment>
+  <FilledPerson>
+    <RUDECLcat:SigningDetails>
+      <cat_ru:PersonSurname>СЫРАЛЕВ</cat_ru:PersonSurname>
+      <cat_ru:PersonName>АЛЕКСЕЙ</cat_ru:PersonName>
+      <cat_ru:PersonMiddleName>ВЛАДИМИРОВИЧ</cat_ru:PersonMiddleName>
+      <cat_ru:PersonPost>ГЕНЕРАЛЬНЫЙ ДИРЕКТОР</cat_ru:PersonPost>
+      <RUScat_ru:CommunicationDetails>
+        <cat_ru:Phone>+79031719838</cat_ru:Phone>
+      </RUScat_ru:CommunicationDetails>
+      <RUScat_ru:SigningDate>2022-02-08T00:00:00+03:00</RUScat_ru:SigningDate>
+    </RUDECLcat:SigningDetails>
+    <RUDECLcat:SignatoryPersonIdentityDetails>
+      <RUScat_ru:IdentityCardCode>RU01001</RUScat_ru:IdentityCardCode>
+      <RUScat_ru:IdentityCardName>ПАСРФ</RUScat_ru:IdentityCardName>
+      <RUScat_ru:IdentityCardSeries>49 17</RUScat_ru:IdentityCardSeries>
+      <RUScat_ru:IdentityCardNumber>183131</RUScat_ru:IdentityCardNumber>
+      <RUScat_ru:IdentityCardDate>2017-10-10</RUScat_ru:IdentityCardDate>
+      <RUScat_ru:OrganizationName>ОТДЕЛОМ УФМС РОССИИ ПО НОВГОРОДСКОЙ ОБЛАСТИ В ГОР. ВЕЛИКИЙ НОВГОРОД</RUScat_ru:OrganizationName>
+    </RUDECLcat:SignatoryPersonIdentityDetails>
+    <RUDECLcat:PowerOfAttorneyDetails>
+      <cat_ru:PrDocumentName>ПРИКАЗ</cat_ru:PrDocumentName>
+      <cat_ru:PrDocumentNumber>8</cat_ru:PrDocumentNumber>
+      <cat_ru:PrDocumentDate>2018-03-02</cat_ru:PrDocumentDate>
+      <RUScat_ru:DocStartDate>2018-03-02</RUScat_ru:DocStartDate>
+    </RUDECLcat:PowerOfAttorneyDetails>
+  </FilledPerson>
+</ESADout_CU>
+            </DocBody>
+          </ContainerDoc>
+          <ContainerDoc>
+            <DocBody>
+
+<DTSout_CU DocumentModeID="1006112E" xmlns="urn:customs.ru:Information:CustomsDocuments:DTSout_CU:5.18.0" xmlns:cat_ru="urn:customs.ru:CommonAggregateTypes:5.10.0" xmlns:clt_ru="urn:customs.ru:CommonLeafTypes:5.10.0" xmlns:RUDECLcat="urn:customs.ru:RUDeclCommonAggregateTypesCust:5.17.0" xmlns:RUScat_ru="urn:customs.ru:RUSCommonAggregateTypes:5.16.0" xmlns:cltESAD_cu="urn:customs.ru:CUESADCommonLeafTypes:5.17.0" xmlns:cat_EDTS_cu="urn:customs.ru:CUESADDTSCommonAggregateTypes:5.17.0" xmlns:catESAD_cu="urn:customs.ru:CUESADCommonAggregateTypesCust:5.17.0" >
+  <cat_ru:DocumentID>23F29EC7-0A1B-4242-A431-682B2B860AC2</cat_ru:DocumentID>
+  <AdditionalSheetNumber>0</AdditionalSheetNumber>
+  <FormDTS>1</FormDTS>
+  <CustomsCostMethodCode>1</CustomsCostMethodCode>
+  <DTSoutSeller>
+    <cat_ru:OrganizationName>FULL SUN OPTOTECH CO., LTD.</cat_ru:OrganizationName>
+    <RUScat_ru:SubjectAddressDetails>
+      <RUScat_ru:PostalCode>40768</RUScat_ru:PostalCode>
+      <RUScat_ru:CountryCode>TW</RUScat_ru:CountryCode>
+      <RUScat_ru:CounryName>ТАЙВАНЬ (КИТАЙ)</RUScat_ru:CounryName>
+      <RUScat_ru:City>TAICHUNG</RUScat_ru:City>
+      <RUScat_ru:StreetHouse>N30, INDUSTRIAL 41ST RD., TAICHUNG INDUSTRIAL PARK</RUScat_ru:StreetHouse>
+    </RUScat_ru:SubjectAddressDetails>
+  </DTSoutSeller>
+  <DTSoutBuyer>
+    <cat_ru:OrganizationName>АО "ПЛАНЕТА- СИД"</cat_ru:OrganizationName>
+    <cat_ru:RFOrganizationFeatures>
+      <cat_ru:OGRN>1025300803604</cat_ru:OGRN>
+      <cat_ru:INN>5321037964</cat_ru:INN>
+      <cat_ru:KPP>532101001</cat_ru:KPP>
+    </cat_ru:RFOrganizationFeatures>
+    <RUScat_ru:SubjectAddressDetails>
+      <RUScat_ru:PostalCode>173000</RUScat_ru:PostalCode>
+      <RUScat_ru:CountryCode>RU</RUScat_ru:CountryCode>
+      <RUScat_ru:CounryName>РОССИЯ</RUScat_ru:CounryName>
+      <RUScat_ru:Region>НОВГОРОДСКАЯ ОБЛ.</RUScat_ru:Region>
+      <RUScat_ru:City>Г. ВЕЛИКИЙ НОВГОРОД</RUScat_ru:City>
+      <RUScat_ru:StreetHouse>УЛ. ФЕДОРОВСКИЙ РУЧЕЙ, Д. 2/13, ПОМ. 1</RUScat_ru:StreetHouse>
+    </RUScat_ru:SubjectAddressDetails>
+  </DTSoutBuyer>
+  <DTSInvoiceDocuments>
+    <cat_ru:PrDocumentName>ИНВОЙС (СЧЕТ-ФАКТУРА) К ДОГОВОРУ</cat_ru:PrDocumentName>
+    <cat_ru:PrDocumentNumber>211202015/201202022</cat_ru:PrDocumentNumber>
+    <cat_ru:PrDocumentDate>2022-01-21</cat_ru:PrDocumentDate>
+    <cat_EDTS_cu:PresentedDocumentModeCode>04021</cat_EDTS_cu:PresentedDocumentModeCode>
+    <cat_EDTS_cu:PositionNumber>4</cat_EDTS_cu:PositionNumber>
+    <cat_EDTS_cu:ConsignmentItemOrdinal>0</cat_EDTS_cu:ConsignmentItemOrdinal>
+  </DTSInvoiceDocuments>
+  <DTSInvoiceDocuments>
+    <cat_ru:PrDocumentName>ДОГОВОР (КОНТРАКТ)</cat_ru:PrDocumentName>
+    <cat_ru:PrDocumentNumber>8/2021</cat_ru:PrDocumentNumber>
+    <cat_ru:PrDocumentDate>2021-12-02</cat_ru:PrDocumentDate>
+    <cat_EDTS_cu:PresentedDocumentModeCode>03011</cat_EDTS_cu:PresentedDocumentModeCode>
+    <cat_EDTS_cu:PositionNumber>5</cat_EDTS_cu:PositionNumber>
+    <cat_EDTS_cu:ConsignmentItemOrdinal>0</cat_EDTS_cu:ConsignmentItemOrdinal>
+  </DTSInvoiceDocuments>
+  <DTSInvoiceDocuments>
+    <cat_ru:PrDocumentName>ДОПОЛНЕНИЕ К ДОГОВОРУ</cat_ru:PrDocumentName>
+    <cat_ru:PrDocumentNumber>1</cat_ru:PrDocumentNumber>
+    <cat_ru:PrDocumentDate>2021-12-02</cat_ru:PrDocumentDate>
+    <cat_EDTS_cu:PresentedDocumentModeCode>03012</cat_EDTS_cu:PresentedDocumentModeCode>
+    <cat_EDTS_cu:PositionNumber>5</cat_EDTS_cu:PositionNumber>
+    <cat_EDTS_cu:ConsignmentItemOrdinal>0</cat_EDTS_cu:ConsignmentItemOrdinal>
+  </DTSInvoiceDocuments>
+  <DTSInvoiceDocuments>
+    <cat_ru:PrDocumentName>ДОПОЛНЕНИЕ К ДОГОВОРУ</cat_ru:PrDocumentName>
+    <cat_ru:PrDocumentNumber>Б/Н</cat_ru:PrDocumentNumber>
+    <cat_ru:PrDocumentDate>2021-12-02</cat_ru:PrDocumentDate>
+    <cat_EDTS_cu:PresentedDocumentModeCode>03012</cat_EDTS_cu:PresentedDocumentModeCode>
+    <cat_EDTS_cu:PositionNumber>5</cat_EDTS_cu:PositionNumber>
+    <cat_EDTS_cu:ConsignmentItemOrdinal>0</cat_EDTS_cu:ConsignmentItemOrdinal>
+  </DTSInvoiceDocuments>
+  <DTSBuyerSellerDependence>
+    <cat_EDTS_cu:Column7A>0</cat_EDTS_cu:Column7A>
+  </DTSBuyerSellerDependence>
+  <DTSSellingLimitation>
+    <cat_EDTS_cu:Column8A>0</cat_EDTS_cu:Column8A>
+    <cat_EDTS_cu:Column8B>0</cat_EDTS_cu:Column8B>
+  </DTSSellingLimitation>
+  <DTSAdditionalPayments>
+    <cat_EDTS_cu:Column9A>0</cat_EDTS_cu:Column9A>
+    <cat_EDTS_cu:Column9B>0</cat_EDTS_cu:Column9B>
+  </DTSAdditionalPayments>
+  <DTSout_CUGoodsCustomsCost>
+    <SheetNumber>2</SheetNumber>
+    <SheetGoodsSerialNumber>1</SheetGoodsSerialNumber>
+    <GTDGoodsNumber>1</GTDGoodsNumber>
+    <GoodsTNVEDCode>8541900000</GoodsTNVEDCode>
+    <NationalDeclaredCustomsCost>419693.98</NationalDeclaredCustomsCost>
+    <DollarDeclaredCustomsCost>5545.60</DollarDeclaredCustomsCost>
+    <ExchangeRate>
+      <RUScat_ru:CurrencyRate>75.6806</RUScat_ru:CurrencyRate>
+      <RUScat_ru:CurrencyA3Code>USD</RUScat_ru:CurrencyA3Code>
+    </ExchangeRate>
+    <CurrencyDate>2022-02-08</CurrencyDate>
+    <MethodNumberCode>1</MethodNumberCode>
+    <DTS_CUCustomsCostCalculation>
+      <cat_EDTS_cu:DTSMethod1>
+        <cat_EDTS_cu:Method1CalculationBasis>
+          <cat_EDTS_cu:DealCurrencyAmount>5386.30</cat_EDTS_cu:DealCurrencyAmount>
+          <cat_EDTS_cu:DealCurrencyCode>USD</cat_EDTS_cu:DealCurrencyCode>
+          <cat_EDTS_cu:DealNationalAmount>407638.42</cat_EDTS_cu:DealNationalAmount>
+          <cat_EDTS_cu:DealCurrencyRate>75.6806</cat_EDTS_cu:DealCurrencyRate>
+          <cat_EDTS_cu:BasisNationalAmount>407638.42</cat_EDTS_cu:BasisNationalAmount>
+        </cat_EDTS_cu:Method1CalculationBasis>
+        <cat_EDTS_cu:Method1AdditionalSum>
+          <cat_EDTS_cu:BorderTransportCharges>12055.56</cat_EDTS_cu:BorderTransportCharges>
+          <cat_EDTS_cu:BorderPlace>А/П ВНУКОВО</cat_EDTS_cu:BorderPlace>
+          <cat_EDTS_cu:TotalAdditionalSum>12055.56</cat_EDTS_cu:TotalAdditionalSum>
+        </cat_EDTS_cu:Method1AdditionalSum>
+      </cat_EDTS_cu:DTSMethod1>
+    </DTS_CUCustomsCostCalculation>
+  </DTSout_CUGoodsCustomsCost>
+  <DTSout_CUFilledPerson>
+    <RUDECLcat:SigningDetails>
+      <cat_ru:PersonSurname>СЫРАЛЕВ</cat_ru:PersonSurname>
+      <cat_ru:PersonName>АЛЕКСЕЙ</cat_ru:PersonName>
+      <cat_ru:PersonMiddleName>ВЛАДИМИРОВИЧ</cat_ru:PersonMiddleName>
+      <cat_ru:PersonPost>ГЕНЕРАЛЬНЫЙ ДИРЕКТОР</cat_ru:PersonPost>
+      <RUScat_ru:CommunicationDetails>
+        <cat_ru:Phone>+79031719838</cat_ru:Phone>
+      </RUScat_ru:CommunicationDetails>
+      <RUScat_ru:SigningDate>2022-02-08T00:00:00+03:00</RUScat_ru:SigningDate>
+    </RUDECLcat:SigningDetails>
+    <RUDECLcat:SignatoryPersonIdentityDetails>
+      <RUScat_ru:IdentityCardCode>RU01001</RUScat_ru:IdentityCardCode>
+      <RUScat_ru:IdentityCardName>ПАСРФ</RUScat_ru:IdentityCardName>
+      <RUScat_ru:IdentityCardSeries>49 17</RUScat_ru:IdentityCardSeries>
+      <RUScat_ru:IdentityCardNumber>183131</RUScat_ru:IdentityCardNumber>
+      <RUScat_ru:IdentityCardDate>2017-10-10</RUScat_ru:IdentityCardDate>
+      <RUScat_ru:OrganizationName>ОТДЕЛОМ УФМС РОССИИ ПО НОВГОРОДСКОЙ ОБЛАСТИ В ГОР. ВЕЛИКИЙ НОВГОРОД</RUScat_ru:OrganizationName>
+    </RUDECLcat:SignatoryPersonIdentityDetails>
+  </DTSout_CUFilledPerson>
+  <DTSoutDeclarant>
+    <cat_ru:OrganizationName>АО "ПЛАНЕТА- СИД"</cat_ru:OrganizationName>
+    <cat_ru:RFOrganizationFeatures>
+      <cat_ru:OGRN>1025300803604</cat_ru:OGRN>
+      <cat_ru:INN>5321037964</cat_ru:INN>
+      <cat_ru:KPP>532101001</cat_ru:KPP>
+    </cat_ru:RFOrganizationFeatures>
+    <RUScat_ru:SubjectAddressDetails>
+      <RUScat_ru:PostalCode>173000</RUScat_ru:PostalCode>
+      <RUScat_ru:CountryCode>RU</RUScat_ru:CountryCode>
+      <RUScat_ru:CounryName>РОССИЯ</RUScat_ru:CounryName>
+      <RUScat_ru:Region>НОВГОРОДСКАЯ ОБЛ.</RUScat_ru:Region>
+      <RUScat_ru:City>Г. ВЕЛИКИЙ НОВГОРОД</RUScat_ru:City>
+      <RUScat_ru:StreetHouse>УЛ. ФЕДОРОВСКИЙ РУЧЕЙ, Д. 2/13, ПОМ. 1</RUScat_ru:StreetHouse>
+    </RUScat_ru:SubjectAddressDetails>
+  </DTSoutDeclarant>
+  <DeliveryTerms>
+    <cat_ru:DeliveryPlace>TAIWAN</cat_ru:DeliveryPlace>
+    <cat_ru:DeliveryTermsStringCode>FCA</cat_ru:DeliveryTermsStringCode>
+  </DeliveryTerms>
+</DTSout_CU>
+            </DocBody>
+          </ContainerDoc>
+</ED_Container>
+<!--ND=10005030/080222/3068456-->
