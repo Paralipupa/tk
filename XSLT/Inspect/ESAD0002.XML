@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ED_Container xmlns:cat_ru="urn:customs.ru:CommonAggregateTypes:5.10.0" DocumentModeID="1006058E" xmlns="urn:customs.ru:Information:ExchangeDocuments:ED_Container:5.13.1">
+  <cat_ru:DocumentID>BAED222A-3220-4F16-A424-560F8CD4E5BB</cat_ru:DocumentID>
+  <ContainerDoc>
+    <DocBody>
+      <DTSout_CU xmlns:RUScat_ru="urn:customs.ru:RUSCommonAggregateTypes:5.16.0" xmlns:cat_EDTS_cu="urn:customs.ru:CUESADDTSCommonAggregateTypes:5.17.0" xmlns:cat_ru="urn:customs.ru:CommonAggregateTypes:5.10.0" xmlns:RUDECLcat="urn:customs.ru:RUDeclCommonAggregateTypesCust:5.17.0" xmlns:catESAD_cu="urn:customs.ru:CUESADCommonAggregateTypesCust:5.17.0" DocumentModeID="1006112E" xmlns="urn:customs.ru:Information:CustomsDocuments:DTSout_CU:5.18.0">
+        <cat_ru:DocumentID>EFE884C2-0B65-44F5-97E5-0FCAADB6E856</cat_ru:DocumentID>
+        <AdditionalSheetNumber>0</AdditionalSheetNumber>
+        <FormDTS>1</FormDTS>
+        <CustomsCostMethodCode>1</CustomsCostMethodCode>
+        <DTSoutSeller>
+          <cat_ru:OrganizationName>„ GREEN CIRCLE CUTLERY" SIA</cat_ru:OrganizationName>
+          <RUScat_ru:SubjectAddressDetails>
+            <RUScat_ru:PostalCode>LV-1010</RUScat_ru:PostalCode>
+            <RUScat_ru:CountryCode>LV</RUScat_ru:CountryCode>
+            <RUScat_ru:CounryName>ЛАТВИЯ</RUScat_ru:CounryName>
+            <RUScat_ru:City>RIGA</RUScat_ru:City>
+            <RUScat_ru:StreetHouse>GERTRUDES STR. 10-17</RUScat_ru:StreetHouse>
+          </RUScat_ru:SubjectAddressDetails>
+        </DTSoutSeller>
+        <DTSoutBuyer>
+          <cat_ru:OrganizationName>ООО "РОМАШКА"</cat_ru:OrganizationName>
+          <cat_ru:RFOrganizationFeatures>
+            <cat_ru:OGRN>1027739762269</cat_ru:OGRN>
+            <cat_ru:INN>7713026678</cat_ru:INN>
+            <cat_ru:KPP>771301001</cat_ru:KPP>
+          </cat_ru:RFOrganizationFeatures>
+          <RUScat_ru:SubjectAddressDetails>
+            <RUScat_ru:PostalCode>127238</RUScat_ru:PostalCode>
+            <RUScat_ru:CountryCode>RU</RUScat_ru:CountryCode>
+            <RUScat_ru:CounryName>РОССИЯ</RUScat_ru:CounryName>
+            <RUScat_ru:City>МОСКВА</RUScat_ru:City>
+            <RUScat_ru:StreetHouse>ДМИТРОВСКОЕ Ш., Д. 55, К1, ОФИС 6</RUScat_ru:StreetHouse>
+          </RUScat_ru:SubjectAddressDetails>
+        </DTSoutBuyer>
+        <DTSBuyerSellerDependence>
+          <cat_EDTS_cu:Column7A>0</cat_EDTS_cu:Column7A>
+        </DTSBuyerSellerDependence>
+        <DTSSellingLimitation>
+          <cat_EDTS_cu:Column8A>0</cat_EDTS_cu:Column8A>
+          <cat_EDTS_cu:Column8B>0</cat_EDTS_cu:Column8B>
+        </DTSSellingLimitation>
+        <DTSAdditionalPayments>
+          <cat_EDTS_cu:Column9A>0</cat_EDTS_cu:Column9A>
+          <cat_EDTS_cu:Column9B>0</cat_EDTS_cu:Column9B>
+        </DTSAdditionalPayments>
+        <DTSout_CUGoodsCustomsCost>
+          <SheetNumber>2</SheetNumber>
+          <SheetGoodsSerialNumber>1</SheetGoodsSerialNumber>
+          <GTDGoodsNumber>1</GTDGoodsNumber>
+          <GoodsTNVEDCode>4419909000</GoodsTNVEDCode>
+          <NationalDeclaredCustomsCost>1857084.89</NationalDeclaredCustomsCost>
+          <DollarDeclaredCustomsCost>26168.14</DollarDeclaredCustomsCost>
+          <ExchangeRate>
+            <RUScat_ru:CurrencyRate>70.9674</RUScat_ru:CurrencyRate>
+            <RUScat_ru:CurrencyA3Code>USD</RUScat_ru:CurrencyA3Code>
+            <RUScat_ru:ScaleNumber>0</RUScat_ru:ScaleNumber>
+          </ExchangeRate>
+          <CurrencyDate>2021-10-20</CurrencyDate>
+          <MethodNumberCode>1</MethodNumberCode>
+          <DTS_CUCustomsCostCalculation>
+            <cat_EDTS_cu:DTSMethod1>
+              <cat_EDTS_cu:Method1CalculationBasis>
+                <cat_EDTS_cu:DealCurrencyAmount>22460</cat_EDTS_cu:DealCurrencyAmount>
+                <cat_EDTS_cu:DealCurrencyCode>EUR</cat_EDTS_cu:DealCurrencyCode>
+                <cat_EDTS_cu:DealNationalAmount>1857084.89</cat_EDTS_cu:DealNationalAmount>
+                <cat_EDTS_cu:DealCurrencyDate>2021-10-20</cat_EDTS_cu:DealCurrencyDate>
+                <cat_EDTS_cu:DealCurrencyRate>82.6841</cat_EDTS_cu:DealCurrencyRate>
+                <cat_EDTS_cu:IndirectNationalPayment>0</cat_EDTS_cu:IndirectNationalPayment>
+                <cat_EDTS_cu:BasisNationalAmount>1857084.89</cat_EDTS_cu:BasisNationalAmount>
+              </cat_EDTS_cu:Method1CalculationBasis>
+              <cat_EDTS_cu:Method1AdditionalSum>
+                <cat_EDTS_cu:AgentBonus>0</cat_EDTS_cu:AgentBonus>
+                <cat_EDTS_cu:PackageExpenses>0</cat_EDTS_cu:PackageExpenses>
+                <cat_EDTS_cu:StoreCost>0</cat_EDTS_cu:StoreCost>
+                <cat_EDTS_cu:ProductionToolkitCost>0</cat_EDTS_cu:ProductionToolkitCost>
+                <cat_EDTS_cu:WorkingStockCost>0</cat_EDTS_cu:WorkingStockCost>
+                <cat_EDTS_cu:DesignPayment>0</cat_EDTS_cu:DesignPayment>
+                <cat_EDTS_cu:IntellectualPropertyPayment>0</cat_EDTS_cu:IntellectualPropertyPayment>
+                <cat_EDTS_cu:SellerIncome>0</cat_EDTS_cu:SellerIncome>
+                <cat_EDTS_cu:BorderTransportCharges>0</cat_EDTS_cu:BorderTransportCharges>
+                <cat_EDTS_cu:LoadCharges>0</cat_EDTS_cu:LoadCharges>
+                <cat_EDTS_cu:InsuranceCharges>0</cat_EDTS_cu:InsuranceCharges>
+                <cat_EDTS_cu:TotalAdditionalSum>0</cat_EDTS_cu:TotalAdditionalSum>
+              </cat_EDTS_cu:Method1AdditionalSum>
+              <cat_EDTS_cu:Method1Deduction>
+                <cat_EDTS_cu:BuildingAmount>0</cat_EDTS_cu:BuildingAmount>
+                <cat_EDTS_cu:UnionTransportCharge>0</cat_EDTS_cu:UnionTransportCharge>
+                <cat_EDTS_cu:UnionTaxPayment>0</cat_EDTS_cu:UnionTaxPayment>
+                <cat_EDTS_cu:TotalDeductionAmount>0</cat_EDTS_cu:TotalDeductionAmount>
+              </cat_EDTS_cu:Method1Deduction>
+            </cat_EDTS_cu:DTSMethod1>
+          </DTS_CUCustomsCostCalculation>
+        </DTSout_CUGoodsCustomsCost>
+        <DTSout_CUFilledPerson>
+          <RUDECLcat:SigningDetails>
+            <cat_ru:PersonSurname>СВЕТЛОВА</cat_ru:PersonSurname>
+            <cat_ru:PersonName>МАРИЯ</cat_ru:PersonName>
+            <cat_ru:PersonMiddleName>ЮРЬЕВНА</cat_ru:PersonMiddleName>
+            <cat_ru:PersonPost>СПЕЦИАЛИСТ</cat_ru:PersonPost>
+            <RUScat_ru:CommunicationDetails>
+              <cat_ru:Phone>79031719838</cat_ru:Phone>
+              <cat_ru:E_mail>MASHASWEETLOVE@GMAIL.COM</cat_ru:E_mail>
+            </RUScat_ru:CommunicationDetails>
+            <RUScat_ru:SigningDate>2021-10-20T00:00:00</RUScat_ru:SigningDate>
+          </RUDECLcat:SigningDetails>
+        </DTSout_CUFilledPerson>
+        <DTSoutDeclarant>
+          <cat_ru:OrganizationName>ООО "РОМАШКА"</cat_ru:OrganizationName>
+          <cat_ru:RFOrganizationFeatures>
+            <cat_ru:OGRN>1027739762269</cat_ru:OGRN>
+            <cat_ru:INN>7713026678</cat_ru:INN>
+            <cat_ru:KPP>771301001</cat_ru:KPP>
+          </cat_ru:RFOrganizationFeatures>
+          <RUScat_ru:SubjectAddressDetails>
+            <RUScat_ru:PostalCode>127238</RUScat_ru:PostalCode>
+            <RUScat_ru:CountryCode>RU</RUScat_ru:CountryCode>
+            <RUScat_ru:CounryName>РОССИЯ</RUScat_ru:CounryName>
+            <RUScat_ru:City>МОСКВА</RUScat_ru:City>
+            <RUScat_ru:StreetHouse>ДМИТРОВСКОЕ Ш., Д. 55, К1, ОФИС 6</RUScat_ru:StreetHouse>
+          </RUScat_ru:SubjectAddressDetails>
+        </DTSoutDeclarant>
+        <DeliveryTerms>
+          <cat_ru:DeliveryPlace>МОСКВА</cat_ru:DeliveryPlace>
+          <cat_ru:DeliveryTermsStringCode>CPT</cat_ru:DeliveryTermsStringCode>
+        </DeliveryTerms>
+      </DTSout_CU>
+    </DocBody>
+  </ContainerDoc>
+</ED_Container>
+<!--ND=10607010/151221/0000232-->
+<!--Local=10210000/141221/0000007-->
